@@ -6,6 +6,9 @@
 
 #program to give the largest span between any two equal elements in an array
 
+def VellaFunction:
+    print("Mat call krio")
+
 def spancheck(nums):
     span = 0;
     maxi = 0;
